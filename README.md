@@ -1,6 +1,6 @@
-# Keyboard Remapper
+# Key Remapper
 
-A utility for remapping keyboard keys using systemd's hardware database (hwdb).
+A utility for remapping key events using systemd's hardware database (hwdb).
 
 # Example Usage
 
